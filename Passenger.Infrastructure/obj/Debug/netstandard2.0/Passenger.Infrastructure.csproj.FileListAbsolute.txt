@@ -1,0 +1,12 @@
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Infrastructure.deps.json
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Infrastructure.dll
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Infrastructure.pdb
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Core.dll
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Core.pdb
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.csprojAssemblyReference.cache
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.AssemblyInfoInputs.cache
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.AssemblyInfo.cs
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.csproj.CopyComplete
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.dll
+/Users/adrian.staszewski/Programowanie/dotnet/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.pdb
